@@ -1,0 +1,29 @@
+
+@media (max-width:991px){
+
+    header nav.navbar {
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+      }
+      .navbar-toggler {
+        border: none;
+        background: lightgreen;
+        border-radius: 0;
+        padding: 8px 10px;
+        font-size: 25px;
+      }
+      .navbar-toggler:focus {
+        box-shadow: none;
+      }
+      nav #myMenu li a {
+        padding: 12px 25px;
+      }
+   #banner{
+        padding: 60px 0;
+      }
+      #banner h1 {
+        font-size: 52px;
+      }
+
+    \\
+}
+/* Phone -tablet */
